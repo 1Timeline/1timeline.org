@@ -1,2 +1,7 @@
-# 1timeline.org
-1timeline.org website
+# 1Timeline Website
+
+Public website for 1Timeline.
+
+Hosted on GitHub Pages.
+
+
